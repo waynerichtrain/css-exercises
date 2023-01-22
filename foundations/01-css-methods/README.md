@@ -10,7 +10,7 @@ p:          Internal CSS
 button:     Inline CSS
 
 
-SELF-CHECK
+SELF CHECK
 Did you use all three methods of adding CSS to an HTML file?            YES
 Did you properly link the external CSS file in the HTML file?           YES
 Does the div element have CSS added via the external method?            YES
